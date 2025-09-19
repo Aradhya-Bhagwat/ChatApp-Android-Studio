@@ -1,5 +1,3 @@
-A well-structured **README.md** file for a GitHub repository of a chat app should provide essential information about the project. Here's a template you can adapt:
-
 # MyChatApp 💬
 
 A modern, real-time chat application built for Android. Connect with friends and family seamlessly.
@@ -20,12 +18,11 @@ A modern, real-time chat application built for Android. Connect with friends and
 ## 🛠️ Technologies Used
 
   - **Android Studio:** The official IDE for Android app development.
-  - **Java/Kotlin:** The primary programming language for the Android app.
+  - **Java:** The primary programming language for the Android app.
   - **Firebase:** A comprehensive platform for app development, used for:
       - **Firebase Authentication:** For user sign-up and sign-in.
       - **Firestore Database:** To store and manage chat messages and user data.
       - **Firebase Storage:** For storing user profile pictures and shared images.
-  - **[Optional: Add other libraries, e.g., Glide, Retrofit, etc.]**
 
 -----
 
@@ -42,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/mychatapp.git
+    git clone https://github.com/aradhya0507/ChatApp-Android-Studio.git
     ```
 2.  **Open in Android Studio:**
       - Open Android Studio and select "Open an existing Android Studio project."
@@ -59,33 +56,3 @@ Follow these instructions to get a copy of the project up and running on your lo
       - Click the **Run** button (▶️) in Android Studio.
 
 -----
-
-## 📸 Screenshots
-
-*Replace these with actual screenshots of your app.*
-
------
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project.
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the Branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
------
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
------
-
-## 📧 Contact
-
-Your Name - [your-email@example.com]
-
-Project Link: [https://github.com/your-username/mychatapp](https://www.google.com/search?q=https://github.com/your-username/mychatapp)
