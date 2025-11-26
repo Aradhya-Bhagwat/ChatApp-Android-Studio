@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/aradhya0507/ChatApp-Android-Studio.git
+    git clone https://github.com/Aradhya-Bhagwat/ChatApp-Android-Studio.git
     ```
 2.  **Open in Android Studio:**
       - Open Android Studio and select "Open an existing Android Studio project."
